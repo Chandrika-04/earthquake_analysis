@@ -136,7 +136,7 @@ Upload your dashboard screenshot and add it here.
 
 Example:
 
-![Dashboard](dashboard_preview.png)
+![Dashboard](dashboard_pic.pdf)
 
 ---
 
