@@ -69,7 +69,7 @@ SQL queries used to:
 Power BI dashboard file containing interactive visualizations and insights.
 
 ### 📄 dashboard_pic.pdf
-
+dashboard_pic.pdf
 Dashboard snapshot exported from Power BI.
 
 ---
